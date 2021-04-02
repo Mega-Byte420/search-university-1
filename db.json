@@ -1,0 +1,2033 @@
+{
+    "Data": [
+         {
+            "_id": "5ff0ee7ef09f43168435c42f",
+            "Select_An_Academic_Program": "Accelerated occupational Therapy",
+            "Label": "Accelerated_occupational_Therapy"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c430",
+            "Select_An_Academic_Program": "Accounting & Finance",
+            "Label": "Accounting_And_Finance"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c431",
+            "Select_An_Academic_Program": "Actuarial & Risk Management",
+            "Label": "Actuarial_And_Risk_Management"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c432",
+            "Select_An_Academic_Program": "Aerospace Engineering",
+            "Label": "Aerospace_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c433",
+            "Select_An_Academic_Program": "Agriculture & Agribusiness Management",
+            "Label": "Agriculture_And_Agribusiness_Management"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c434",
+            "Select_An_Academic_Program": "Anesthesia",
+            "Label": "Anesthesia"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c435",
+            "Select_An_Academic_Program": "Applied Chemistry",
+            "Label": "Applied_Chemistry"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c436",
+            "Select_An_Academic_Program": "Applied Physics",
+            "Label": "Applied_Physics"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c437",
+            "Select_An_Academic_Program": "Architecture",
+            "Label": "Architecture"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c438",
+            "Select_An_Academic_Program": "Artificial Intelligence",
+            "Label": "Artificial_Intelligence"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c439",
+            "Select_An_Academic_Program": "Aviation Management",
+            "Label": "Aviation_Management"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c43a",
+            "Select_An_Academic_Program": "Avionics Engineering",
+            "Label": "Avionics_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c43b",
+            "Select_An_Academic_Program": "Banking & Finance",
+            "Label": "Banking_And_Finance"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c43c",
+            "Select_An_Academic_Program": "Bio Medical",
+            "Label": "Bio_Medical"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c43d",
+            "Select_An_Academic_Program": "Biochemistry",
+            "Label": "Biochemistry"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c43e",
+            "Select_An_Academic_Program": "Bioinformatics",
+            "Label": "Bioinformatics"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c43f",
+            "Select_An_Academic_Program": "Biomedical Engineering",
+            "Label": "Biomedical_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c440",
+            "Select_An_Academic_Program": "Biosciences",
+            "Label": "Biosciences"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c441",
+            "Select_An_Academic_Program": "Biotechnology",
+            "Label": "Biotechnology"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c442",
+            "Select_An_Academic_Program": "Botany",
+            "Label": "Botany"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c443",
+            "Select_An_Academic_Program": "Business Administration",
+            "Label": "Business_Administration"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c444",
+            "Select_An_Academic_Program": "Business Information Technology",
+            "Label": "Business_Information_Technology"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c445",
+            "Select_An_Academic_Program": "Cardiology",
+            "Label": "Cardiology"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c446",
+            "Select_An_Academic_Program": "Chemical",
+            "Label": "Chemical"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c447",
+            "Select_An_Academic_Program": "Chemical Engineering",
+            "Label": "Chemical_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c448",
+            "Select_An_Academic_Program": "Chemical Technology",
+            "Label": "Chemical_Technology"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c449",
+            "Select_An_Academic_Program": "Chemistry",
+            "Label": "Chemistry"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c44a",
+            "Select_An_Academic_Program": "Civil Engineering",
+            "Label": "Civil_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c44b",
+            "Select_An_Academic_Program": "Clinical Laboratory Sciences",
+            "Label": "Clinical_Laboratory_Sciences"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c44c",
+            "Select_An_Academic_Program": "Communication Design",
+            "Label": "Communication_Design"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c44d",
+            "Select_An_Academic_Program": "Communicaton & Media Studies",
+            "Label": "Communicaton & Media Studies"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c44e",
+            "Select_An_Academic_Program": "Computer & Information Technology",
+            "Label": "Computer_And_ Information_Technology"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c44f",
+            "Select_An_Academic_Program": "Computer Engineering",
+            "Label": "Computer_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c450",
+            "Select_An_Academic_Program": "Computer Science",
+            "Label": "Computer_Science"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c451",
+            "Select_An_Academic_Program": "Computer System Engineering",
+            "Label": "Computer_System_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c452",
+            "Select_An_Academic_Program": "Computer Systems",
+            "Label": "Computer_Systems"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c453",
+            "Select_An_Academic_Program": "Criminology",
+            "Label": "Criminology"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c454",
+            "Select_An_Academic_Program": "Critical Care Sciences",
+            "Label": "Critical_Care_Sciences"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c455",
+            "Select_An_Academic_Program": "Data Science",
+            "Label": "Data_Science"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c456",
+            "Select_An_Academic_Program": "Critical Care Sciences",
+            "Label": "Critical_Care_Sciences"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c457",
+            "Select_An_Academic_Program": "Dental Hygiene",
+            "Label": "Dental_Hygiene"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c458",
+            "Select_An_Academic_Program": "Dental Sciences",
+            "Label": "Dental_Sciences"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c459",
+            "Select_An_Academic_Program": "Dental Surgery",
+            "Label": "Dental_Surgery"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c45a",
+            "Select_An_Academic_Program": "Development Studies",
+            "Label": "Development_Studies"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c45b",
+            "Select_An_Academic_Program": "Dental Technology",
+            "Label": "Dental_Technology"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c45c",
+            "Select_An_Academic_Program": "Dentistry",
+            "Label": "Dentistry"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c45d",
+            "Select_An_Academic_Program": "Design",
+            "Label": "Design"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c45e",
+            "Select_An_Academic_Program": "Diagnostic Radiology",
+            "Label": "Diagnostic_Radiology"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c45f",
+            "Select_An_Academic_Program": "Dialysis Technology",
+            "Label": "Dialysis_Technology"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c460",
+            "Select_An_Academic_Program": "Doctor Physical Therapy",
+            "Label": "Doctor_Physical_Therapy"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c461",
+            "Select_An_Academic_Program": "Eastern Medicine & Surgery",
+            "Label": "Eastern_Medicine_And_Surgery"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c462",
+            "Select_An_Academic_Program": "Eco, Law & International Relations",
+            "Label": "Eco_Law _ International_Relations"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c463",
+            "Select_An_Academic_Program": "Eco, Media & International Relations",
+            "Label": "Eco_Media_And_International Relations"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c464",
+            "Select_An_Academic_Program": "Economics & Finance",
+            "Label": "Economics-And_Finance"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c465",
+            "Select_An_Academic_Program": "Education",
+            "Label": "Education"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c466",
+            "Select_An_Academic_Program": "Electrical Engineering ",
+            "Label": "Electrical_Engineering "
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c467",
+            "Select_An_Academic_Program": "Telecommunication Engineering",
+            "Label": "Telecommunication_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c468",
+            "Select_An_Academic_Program": "Electronic Engineering",
+            "Label": "Electronic_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c469",
+            "Select_An_Academic_Program": "Electronic Engineering Technology",
+            "Label": "Electronic_Engineering_Technology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c46a",
+            "Select_An_Academic_Program": "English Linguistics",
+            "Label": "English_Linguistics"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c46b",
+            "Select_An_Academic_Program": "English Literature",
+            "Label": "English Literature"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c46c",
+            "Select_An_Academic_Program": "Entrepreneurship",
+            "Label": "Entrepreneurship"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c46d",
+            "Select_An_Academic_Program": "Environmental Studies",
+            "Label": "Environmental_Studies"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c46e",
+            "Select_An_Academic_Program": "Fashion Designing",
+            "Label": "Fashion Designing"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c46f",
+            "Select_An_Academic_Program": "Film & Tv",
+            "Label": "Film-And_Tv"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c470",
+            "Select_An_Academic_Program": "Finance",
+            "Label": "Finance"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c471",
+            "Select_An_Academic_Program": "Food & Technology",
+            "Label": "Food_And_Technology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c472",
+            "Select_An_Academic_Program": "Food Engineering",
+            "Label": "Food_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c473",
+            "Select_An_Academic_Program": "Food Science & Technology",
+            "Label": "Food_Science_And_Technology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c474",
+            "Select_An_Academic_Program": "Geophysics",
+            "Label": "Geophysics"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c475",
+            "Select_An_Academic_Program": "Health & Safety Environment",
+            "Label": "Health_And_Safety Environment"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c476",
+            "Select_An_Academic_Program": "Gastroenterology",
+            "Label": "Gastroenterology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c477",
+            "Select_An_Academic_Program": "General History",
+            "Label": "General History"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c478",
+            "Select_An_Academic_Program": "General Surgery",
+            "Label": "General Surgery"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c479",
+            "Select_An_Academic_Program": "Gynecology & Obstetrics",
+            "Label": "Gynecology_And_Obstetrics"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c47a",
+            "Select_An_Academic_Program": "Health Care & Hospital Management",
+            "Label": "Health_Care_And_Hospital_Management"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c47b",
+            "Select_An_Academic_Program": "Health Management",
+            "Label": "Health_Management"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c47c",
+            "Select_An_Academic_Program": "Health Physical Education & Sports Science",
+            "Label": "Health_Physical_Education_And_Sports_Science"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c47d",
+            "Select_An_Academic_Program": "Human Nutrition & Dietetics",
+            "Label": "Human_Nutrition_And_Dietetics"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c47e",
+            "Select_An_Academic_Program": "Human Resource Management",
+            "Label": "Human_Resource_Management"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c47f",
+            "Select_An_Academic_Program": "Industrial Chemistry",
+            "Label": "Industrial_Chemistry"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c480",
+            "Select_An_Academic_Program": "Industrial Design",
+            "Label": "Industrial_Design"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c481",
+            "Select_An_Academic_Program": "Industrial Engineering",
+            "Label": "Industrial_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c482",
+            "Select_An_Academic_Program": "Industrial Management",
+            "Label": "Industrial_Management"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c483",
+            "Select_An_Academic_Program": "Information Technology",
+            "Label": "Information_Technology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c484",
+            "Select_An_Academic_Program": "International Relations",
+            "Label": "International_Relations"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c485",
+            "Select_An_Academic_Program": "Logistics & Supply Management",
+            "Label": "Logistics_And_Supply Management"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c486",
+            "Select_An_Academic_Program": "Islamic Finance",
+            "Label": "Islamic_Finance"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c487",
+            "Select_An_Academic_Program": "Islamic History",
+            "Label": "Islamic_History"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c488",
+            "Select_An_Academic_Program": "Islamic Studies",
+            "Label": "Islamic_Studies"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c489",
+            "Select_An_Academic_Program": "Joint Business & Psychology",
+            "Label": "Joint_Business_And_Psychology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c48a",
+            "Select_An_Academic_Program": "Law",
+            "Label": "Law"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c48b",
+            "Select_An_Academic_Program": "Library Science",
+            "Label": "Library_Science"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c48c",
+            "Select_An_Academic_Program": "Management Information Systems",
+            "Label": "Management_Information_Systems"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c48d",
+            "Select_An_Academic_Program": "Management Sciences",
+            "Label": "Management_Sciences"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c48e",
+            "Select_An_Academic_Program": "Mechatronics",
+            "Label": "Mechatronics"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c48f",
+            "Select_An_Academic_Program": "Mass Communication",
+            "Label": "Mass_Communication"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c490",
+            "Select_An_Academic_Program": "Materials Engineering",
+            "Label": "Materials_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c491",
+            "Select_An_Academic_Program": "Mathematical Science",
+            "Label": "Mathematical_Science"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c492",
+            "Select_An_Academic_Program": "Mechanical Engineering",
+            "Label": "Mechanical_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c493",
+            "Select_An_Academic_Program": "Mechanical Engineering Technology",
+            "Label": "Mechanical_Engineering_Technology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c494",
+            "Select_An_Academic_Program": "Mechatronic Engineering",
+            "Label": "Mechatronic_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c495",
+            "Select_An_Academic_Program": "Media Digital Marketing",
+            "Label": "Media_Digital_Marketing"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c496",
+            "Select_An_Academic_Program": "Media Film & Tv Production",
+            "Label": "Media_Film_And_Tv_Production"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c497",
+            "Select_An_Academic_Program": "Media Studies",
+            "Label": "Media_Studies"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c498",
+            "Select_An_Academic_Program": "Media Studies & Communication Studies",
+            "Label": "Media_Studies_And_Communication_Studies"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c499",
+            "Select_An_Academic_Program": "Medical Laboratory Science",
+            "Label": "Medical_Laboratory_Science"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c49a",
+            "Select_An_Academic_Program": "Medical Technology",
+            "Label": "Medical_Technology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c49b",
+            "Select_An_Academic_Program": "Medicine",
+            "Label": "Medicine"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c49c",
+            "Select_An_Academic_Program": "Medicine & Surgery",
+            "Label": "Medicine_And_Surgery"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c49d",
+            "Select_An_Academic_Program": "Metallurgical Engineering",
+            "Label": "Metallurgical_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c49e",
+            "Select_An_Academic_Program": "Metallurgy & Materials Engineering",
+            "Label": "Metallurgy & Materials Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c49f",
+            "Select_An_Academic_Program": "Microbiology",
+            "Label": "Microbiology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4a0",
+            "Select_An_Academic_Program": "Oral Biology",
+            "Label": "Oral_Biology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4a1",
+            "Select_An_Academic_Program": "Physiology",
+            "Label": "Physiology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4a2",
+            "Select_An_Academic_Program": "Petroleum & Gas Engineering",
+            "Label": "Petroleum_And_Gas_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4a3",
+            "Select_An_Academic_Program": "Petroleum Engineering",
+            "Label": "Petroleum_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4a4",
+            "Select_An_Academic_Program": "Pharmacy",
+            "Label": "Pharmacy"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4a5",
+            "Select_An_Academic_Program": "Physics",
+            "Label": "Physics"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4a6",
+            "Select_An_Academic_Program": "Physiotherapy",
+            "Label": "Physiotherapy"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4a7",
+            "Select_An_Academic_Program": "Political Science",
+            "Label": "Political_Science"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4a8",
+            "Select_An_Academic_Program": "Polymer Engineering",
+            "Label": "Polymer_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4a9",
+            "Select_An_Academic_Program": "Power Engineering",
+            "Label": "Power_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4aa",
+            "Select_An_Academic_Program": "Project Management",
+            "Label": "Project_Management"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4ab",
+            "Select_An_Academic_Program": "Psychology",
+            "Label": "Psychology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4ac",
+            "Select_An_Academic_Program": "Software_Engineering",
+            "Label": "Software Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4ad",
+            "Select_An_Academic_Program": "Space & Technology",
+            "Label": "Space_And_Technology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4ae",
+            "Select_An_Academic_Program": "Telecommunication",
+            "Label": "Telecommunication"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4af",
+            "Select_An_Academic_Program": "Telecommunication Engineering",
+            "Label": "Telecommunication_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4b0",
+            "Select_An_Academic_Program": "Textile & Fashion Design",
+            "Label": "Textile_And_Fashion Design"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4b1",
+            "Select_An_Academic_Program": "Textile Engineering",
+            "Label": "Textile_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4b2",
+            "Select_An_Academic_Program": "",
+            "Label": ""
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4b3",
+            "Select_An_Academic_Program": "  ",
+            "Label": ""
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4b4",
+            "Select_An_Academic_Program": "  ",
+            "Label": ""
+        }
+    ],
+    "Graduate_Data": [
+        {
+            "_id": "5ff0ee7ef09f43168435c42f",
+            "Select_An_Academic_Program": "Accelerated occupational Therapy",
+            "Label": "Accelerated_occupational_Therapy"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c430",
+            "Select_An_Academic_Program": "Accounting & Finance",
+            "Label": "Accounting_And_Finance"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c431",
+            "Select_An_Academic_Program": "Actuarial & Risk Management",
+            "Label": "Actuarial_And_Risk_Management"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c432",
+            "Select_An_Academic_Program": "Aerospace Engineering",
+            "Label": "Aerospace_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c433",
+            "Select_An_Academic_Program": "Agriculture & Agribusiness Management",
+            "Label": "Agriculture_And_Agribusiness_Management"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c434",
+            "Select_An_Academic_Program": "Anesthesia",
+            "Label": "Anesthesia"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c435",
+            "Select_An_Academic_Program": "Applied Chemistry",
+            "Label": "Applied_Chemistry"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c436",
+            "Select_An_Academic_Program": "Applied Physics",
+            "Label": "Applied_Physics"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c437",
+            "Select_An_Academic_Program": "Architecture",
+            "Label": "Architecture"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c438",
+            "Select_An_Academic_Program": "Artificial Intelligence",
+            "Label": "Artificial_Intelligence"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c439",
+            "Select_An_Academic_Program": "Aviation Management",
+            "Label": "Aviation_Management"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c43a",
+            "Select_An_Academic_Program": "Avionics Engineering",
+            "Label": "Avionics_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c43b",
+            "Select_An_Academic_Program": "Banking & Finance",
+            "Label": "Banking_And_Finance"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c43c",
+            "Select_An_Academic_Program": "Bio Medical",
+            "Label": "Bio_Medical"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c43d",
+            "Select_An_Academic_Program": "Biochemistry",
+            "Label": "Biochemistry"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c43e",
+            "Select_An_Academic_Program": "Bioinformatics",
+            "Label": "Bioinformatics"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c43f",
+            "Select_An_Academic_Program": "Biomedical Engineering",
+            "Label": "Biomedical_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c440",
+            "Select_An_Academic_Program": "Biosciences",
+            "Label": "Biosciences"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c441",
+            "Select_An_Academic_Program": "Biotechnology",
+            "Label": "Biotechnology"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c442",
+            "Select_An_Academic_Program": "Botany",
+            "Label": "Botany"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c443",
+            "Select_An_Academic_Program": "Business Administration",
+            "Label": "Business_Administration"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c444",
+            "Select_An_Academic_Program": "Business Information Technology",
+            "Label": "Business_Information_Technology"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c445",
+            "Select_An_Academic_Program": "Cardiology",
+            "Label": "Cardiology"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c446",
+            "Select_An_Academic_Program": "Chemical",
+            "Label": "Chemical"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c447",
+            "Select_An_Academic_Program": "Chemical Engineering",
+            "Label": "Chemical_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c448",
+            "Select_An_Academic_Program": "Chemical Technology",
+            "Label": "Chemical_Technology"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c449",
+            "Select_An_Academic_Program": "Chemistry",
+            "Label": "Chemistry"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c44a",
+            "Select_An_Academic_Program": "Civil Engineering",
+            "Label": "Civil_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c44b",
+            "Select_An_Academic_Program": "Clinical Laboratory Sciences",
+            "Label": "Clinical_Laboratory_Sciences"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c44c",
+            "Select_An_Academic_Program": "Communication Design",
+            "Label": "Communication_Design"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c44d",
+            "Select_An_Academic_Program": "Communicaton & Media Studies",
+            "Label": "Communicaton & Media Studies"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c44e",
+            "Select_An_Academic_Program": "Computer & Information Technology",
+            "Label": "Computer_And_ Information_Technology"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c44f",
+            "Select_An_Academic_Program": "Computer Engineering",
+            "Label": "Computer_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c450",
+            "Select_An_Academic_Program": "Computer Science",
+            "Label": "Computer_Science"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c451",
+            "Select_An_Academic_Program": "Computer System Engineering",
+            "Label": "Computer_System_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c452",
+            "Select_An_Academic_Program": "Computer Systems",
+            "Label": "Computer_Systems"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c453",
+            "Select_An_Academic_Program": "Criminology",
+            "Label": "Criminology"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c454",
+            "Select_An_Academic_Program": "Critical Care Sciences",
+            "Label": "Critical_Care_Sciences"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c455",
+            "Select_An_Academic_Program": "Data Science",
+            "Label": "Data_Science"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c456",
+            "Select_An_Academic_Program": "Critical Care Sciences",
+            "Label": "Critical_Care_Sciences"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c457",
+            "Select_An_Academic_Program": "Dental Hygiene",
+            "Label": "Dental_Hygiene"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c458",
+            "Select_An_Academic_Program": "Dental Sciences",
+            "Label": "Dental_Sciences"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c459",
+            "Select_An_Academic_Program": "Dental Surgery",
+            "Label": "Dental_Surgery"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c45a",
+            "Select_An_Academic_Program": "Development Studies",
+            "Label": "Development_Studies"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c45b",
+            "Select_An_Academic_Program": "Dental Technology",
+            "Label": "Dental_Technology"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c45c",
+            "Select_An_Academic_Program": "Dentistry",
+            "Label": "Dentistry"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c45d",
+            "Select_An_Academic_Program": "Design",
+            "Label": "Design"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c45e",
+            "Select_An_Academic_Program": "Diagnostic Radiology",
+            "Label": "Diagnostic_Radiology"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c45f",
+            "Select_An_Academic_Program": "Dialysis Technology",
+            "Label": "Dialysis_Technology"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c460",
+            "Select_An_Academic_Program": "Doctor Physical Therapy",
+            "Label": "Doctor_Physical_Therapy"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c461",
+            "Select_An_Academic_Program": "Eastern Medicine & Surgery",
+            "Label": "Eastern_Medicine_And_Surgery"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c462",
+            "Select_An_Academic_Program": "Eco, Law & International Relations",
+            "Label": "Eco_Law _ International_Relations"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c463",
+            "Select_An_Academic_Program": "Eco, Media & International Relations",
+            "Label": "Eco_Media_And_International Relations"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c464",
+            "Select_An_Academic_Program": "Economics & Finance",
+            "Label": "Economics-And_Finance"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c465",
+            "Select_An_Academic_Program": "Education",
+            "Label": "Education"
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c466",
+            "Select_An_Academic_Program": "Electrical Engineering ",
+            "Label": "Electrical_Engineering "
+        },
+        {
+            "_id": "5ff0ee7ef09f43168435c467",
+            "Select_An_Academic_Program": "Telecommunication Engineering",
+            "Label": "Telecommunication_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c468",
+            "Select_An_Academic_Program": "Electronic Engineering",
+            "Label": "Electronic_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c469",
+            "Select_An_Academic_Program": "Electronic Engineering Technology",
+            "Label": "Electronic_Engineering_Technology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c46a",
+            "Select_An_Academic_Program": "English Linguistics",
+            "Label": "English_Linguistics"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c46b",
+            "Select_An_Academic_Program": "English Literature",
+            "Label": "English Literature"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c46c",
+            "Select_An_Academic_Program": "Entrepreneurship",
+            "Label": "Entrepreneurship"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c46d",
+            "Select_An_Academic_Program": "Environmental Studies",
+            "Label": "Environmental_Studies"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c46e",
+            "Select_An_Academic_Program": "Fashion Designing",
+            "Label": "Fashion Designing"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c46f",
+            "Select_An_Academic_Program": "Film & Tv",
+            "Label": "Film-And_Tv"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c470",
+            "Select_An_Academic_Program": "Finance",
+            "Label": "Finance"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c471",
+            "Select_An_Academic_Program": "Food & Technology",
+            "Label": "Food_And_Technology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c472",
+            "Select_An_Academic_Program": "Food Engineering",
+            "Label": "Food_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c473",
+            "Select_An_Academic_Program": "Food Science & Technology",
+            "Label": "Food_Science_And_Technology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c474",
+            "Select_An_Academic_Program": "Geophysics",
+            "Label": "Geophysics"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c475",
+            "Select_An_Academic_Program": "Health & Safety Environment",
+            "Label": "Health_And_Safety Environment"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c476",
+            "Select_An_Academic_Program": "Gastroenterology",
+            "Label": "Gastroenterology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c477",
+            "Select_An_Academic_Program": "General History",
+            "Label": "General History"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c478",
+            "Select_An_Academic_Program": "General Surgery",
+            "Label": "General Surgery"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c479",
+            "Select_An_Academic_Program": "Gynecology & Obstetrics",
+            "Label": "Gynecology_And_Obstetrics"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c47a",
+            "Select_An_Academic_Program": "Health Care & Hospital Management",
+            "Label": "Health_Care_And_Hospital_Management"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c47b",
+            "Select_An_Academic_Program": "Health Management",
+            "Label": "Health_Management"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c47c",
+            "Select_An_Academic_Program": "Health Physical Education & Sports Science",
+            "Label": "Health_Physical_Education_And_Sports_Science"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c47d",
+            "Select_An_Academic_Program": "Human Nutrition & Dietetics",
+            "Label": "Human_Nutrition_And_Dietetics"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c47e",
+            "Select_An_Academic_Program": "Human Resource Management",
+            "Label": "Human_Resource_Management"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c47f",
+            "Select_An_Academic_Program": "Industrial Chemistry",
+            "Label": "Industrial_Chemistry"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c480",
+            "Select_An_Academic_Program": "Industrial Design",
+            "Label": "Industrial_Design"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c481",
+            "Select_An_Academic_Program": "Industrial Engineering",
+            "Label": "Industrial_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c482",
+            "Select_An_Academic_Program": "Industrial Management",
+            "Label": "Industrial_Management"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c483",
+            "Select_An_Academic_Program": "Information Technology",
+            "Label": "Information_Technology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c484",
+            "Select_An_Academic_Program": "International Relations",
+            "Label": "International_Relations"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c485",
+            "Select_An_Academic_Program": "Logistics & Supply Management",
+            "Label": "Logistics_And_Supply Management"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c486",
+            "Select_An_Academic_Program": "Islamic Finance",
+            "Label": "Islamic_Finance"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c487",
+            "Select_An_Academic_Program": "Islamic History",
+            "Label": "Islamic_History"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c488",
+            "Select_An_Academic_Program": "Islamic Studies",
+            "Label": "Islamic_Studies"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c489",
+            "Select_An_Academic_Program": "Joint Business & Psychology",
+            "Label": "Joint_Business_And_Psychology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c48a",
+            "Select_An_Academic_Program": "Law",
+            "Label": "Law"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c48b",
+            "Select_An_Academic_Program": "Library Science",
+            "Label": "Library_Science"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c48c",
+            "Select_An_Academic_Program": "Management Information Systems",
+            "Label": "Management_Information_Systems"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c48d",
+            "Select_An_Academic_Program": "Management Sciences",
+            "Label": "Management_Sciences"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c48e",
+            "Select_An_Academic_Program": "Mechatronics",
+            "Label": "Mechatronics"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c48f",
+            "Select_An_Academic_Program": "Mass Communication",
+            "Label": "Mass_Communication"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c490",
+            "Select_An_Academic_Program": "Materials Engineering",
+            "Label": "Materials_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c491",
+            "Select_An_Academic_Program": "Mathematical Science",
+            "Label": "Mathematical_Science"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c492",
+            "Select_An_Academic_Program": "Mechanical Engineering",
+            "Label": "Mechanical_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c493",
+            "Select_An_Academic_Program": "Mechanical Engineering Technology",
+            "Label": "Mechanical_Engineering_Technology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c494",
+            "Select_An_Academic_Program": "Mechatronic Engineering",
+            "Label": "Mechatronic_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c495",
+            "Select_An_Academic_Program": "Media Digital Marketing",
+            "Label": "Media_Digital_Marketing"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c496",
+            "Select_An_Academic_Program": "Media Film & Tv Production",
+            "Label": "Media_Film_And_Tv_Production"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c497",
+            "Select_An_Academic_Program": "Media Studies",
+            "Label": "Media_Studies"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c498",
+            "Select_An_Academic_Program": "Media Studies & Communication Studies",
+            "Label": "Media_Studies_And_Communication_Studies"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c499",
+            "Select_An_Academic_Program": "Medical Laboratory Science",
+            "Label": "Medical_Laboratory_Science"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c49a",
+            "Select_An_Academic_Program": "Medical Technology",
+            "Label": "Medical_Technology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c49b",
+            "Select_An_Academic_Program": "Medicine",
+            "Label": "Medicine"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c49c",
+            "Select_An_Academic_Program": "Medicine & Surgery",
+            "Label": "Medicine_And_Surgery"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c49d",
+            "Select_An_Academic_Program": "Metallurgical Engineering",
+            "Label": "Metallurgical_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c49e",
+            "Select_An_Academic_Program": "Metallurgy & Materials Engineering",
+            "Label": "Metallurgy & Materials Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c49f",
+            "Select_An_Academic_Program": "Microbiology",
+            "Label": "Microbiology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4a0",
+            "Select_An_Academic_Program": "Oral Biology",
+            "Label": "Oral_Biology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4a1",
+            "Select_An_Academic_Program": "Physiology",
+            "Label": "Physiology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4a2",
+            "Select_An_Academic_Program": "Petroleum & Gas Engineering",
+            "Label": "Petroleum_And_Gas_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4a3",
+            "Select_An_Academic_Program": "Petroleum Engineering",
+            "Label": "Petroleum_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4a4",
+            "Select_An_Academic_Program": "Pharmacy",
+            "Label": "Pharmacy"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4a5",
+            "Select_An_Academic_Program": "Physics",
+            "Label": "Physics"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4a6",
+            "Select_An_Academic_Program": "Physiotherapy",
+            "Label": "Physiotherapy"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4a7",
+            "Select_An_Academic_Program": "Political Science",
+            "Label": "Political_Science"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4a8",
+            "Select_An_Academic_Program": "Polymer Engineering",
+            "Label": "Polymer_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4a9",
+            "Select_An_Academic_Program": "Power Engineering",
+            "Label": "Power_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4aa",
+            "Select_An_Academic_Program": "Project Management",
+            "Label": "Project_Management"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4ab",
+            "Select_An_Academic_Program": "Psychology",
+            "Label": "Psychology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4ac",
+            "Select_An_Academic_Program": "Software_Engineering",
+            "Label": "Software Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4ad",
+            "Select_An_Academic_Program": "Space & Technology",
+            "Label": "Space_And_Technology"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4ae",
+            "Select_An_Academic_Program": "Telecommunication",
+            "Label": "Telecommunication"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4af",
+            "Select_An_Academic_Program": "Telecommunication Engineering",
+            "Label": "Telecommunication_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4b0",
+            "Select_An_Academic_Program": "Textile & Fashion Design",
+            "Label": "Textile_And_Fashion Design"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4b1",
+            "Select_An_Academic_Program": "Textile Engineering",
+            "Label": "Textile_Engineering"
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4b2",
+            "Select_An_Academic_Program": "",
+            "Label": ""
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4b3",
+            "Select_An_Academic_Program": "  ",
+            "Label": ""
+        },
+        {
+            "_id": "5ff0ee7ff09f43168435c4b4",
+            "Select_An_Academic_Program": "  ",
+            "Label": ""
+        }
+    ],
+    "Postgraduate_Fields":[
+        {
+           "_id": "5ff0ee7ef09f43168435c42f",
+           "Select_An_Academic_Program": "Accelerated occupational Therapy",
+           "Label": "Accelerated_occupational_Therapy"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c430",
+           "Select_An_Academic_Program": "Accounting & Finance",
+           "Label": "Accounting_And_Finance"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c431",
+           "Select_An_Academic_Program": "Actuarial & Risk Management",
+           "Label": "Actuarial_And_Risk_Management"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c432",
+           "Select_An_Academic_Program": "Aerospace Engineering",
+           "Label": "Aerospace_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c433",
+           "Select_An_Academic_Program": "Agriculture & Agribusiness Management",
+           "Label": "Agriculture_And_Agribusiness_Management"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c434",
+           "Select_An_Academic_Program": "Anesthesia",
+           "Label": "Anesthesia"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c435",
+           "Select_An_Academic_Program": "Applied Chemistry",
+           "Label": "Applied_Chemistry"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c436",
+           "Select_An_Academic_Program": "Applied Physics",
+           "Label": "Applied_Physics"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c437",
+           "Select_An_Academic_Program": "Architecture",
+           "Label": "Architecture"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c438",
+           "Select_An_Academic_Program": "Artificial Intelligence",
+           "Label": "Artificial_Intelligence"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c439",
+           "Select_An_Academic_Program": "Aviation Management",
+           "Label": "Aviation_Management"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c43a",
+           "Select_An_Academic_Program": "Avionics Engineering",
+           "Label": "Avionics_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c43b",
+           "Select_An_Academic_Program": "Banking & Finance",
+           "Label": "Banking_And_Finance"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c43c",
+           "Select_An_Academic_Program": "Bio Medical",
+           "Label": "Bio_Medical"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c43d",
+           "Select_An_Academic_Program": "Biochemistry",
+           "Label": "Biochemistry"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c43e",
+           "Select_An_Academic_Program": "Bioinformatics",
+           "Label": "Bioinformatics"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c43f",
+           "Select_An_Academic_Program": "Biomedical Engineering",
+           "Label": "Biomedical_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c440",
+           "Select_An_Academic_Program": "Biosciences",
+           "Label": "Biosciences"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c441",
+           "Select_An_Academic_Program": "Biotechnology",
+           "Label": "Biotechnology"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c442",
+           "Select_An_Academic_Program": "Botany",
+           "Label": "Botany"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c443",
+           "Select_An_Academic_Program": "Business Administration",
+           "Label": "Business_Administration"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c444",
+           "Select_An_Academic_Program": "Business Information Technology",
+           "Label": "Business_Information_Technology"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c445",
+           "Select_An_Academic_Program": "Cardiology",
+           "Label": "Cardiology"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c446",
+           "Select_An_Academic_Program": "Chemical",
+           "Label": "Chemical"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c447",
+           "Select_An_Academic_Program": "Chemical Engineering",
+           "Label": "Chemical_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c448",
+           "Select_An_Academic_Program": "Chemical Technology",
+           "Label": "Chemical_Technology"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c449",
+           "Select_An_Academic_Program": "Chemistry",
+           "Label": "Chemistry"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c44a",
+           "Select_An_Academic_Program": "Civil Engineering",
+           "Label": "Civil_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c44b",
+           "Select_An_Academic_Program": "Clinical Laboratory Sciences",
+           "Label": "Clinical_Laboratory_Sciences"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c44c",
+           "Select_An_Academic_Program": "Communication Design",
+           "Label": "Communication_Design"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c44d",
+           "Select_An_Academic_Program": "Communicaton & Media Studies",
+           "Label": "Communicaton & Media Studies"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c44e",
+           "Select_An_Academic_Program": "Computer & Information Technology",
+           "Label": "Computer_And_ Information_Technology"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c44f",
+           "Select_An_Academic_Program": "Computer Engineering",
+           "Label": "Computer_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c450",
+           "Select_An_Academic_Program": "Computer Science",
+           "Label": "Computer_Science"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c451",
+           "Select_An_Academic_Program": "Computer System Engineering",
+           "Label": "Computer_System_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c452",
+           "Select_An_Academic_Program": "Computer Systems",
+           "Label": "Computer_Systems"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c453",
+           "Select_An_Academic_Program": "Criminology",
+           "Label": "Criminology"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c454",
+           "Select_An_Academic_Program": "Critical Care Sciences",
+           "Label": "Critical_Care_Sciences"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c455",
+           "Select_An_Academic_Program": "Data Science",
+           "Label": "Data_Science"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c456",
+           "Select_An_Academic_Program": "Critical Care Sciences",
+           "Label": "Critical_Care_Sciences"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c457",
+           "Select_An_Academic_Program": "Dental Hygiene",
+           "Label": "Dental_Hygiene"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c458",
+           "Select_An_Academic_Program": "Dental Sciences",
+           "Label": "Dental_Sciences"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c459",
+           "Select_An_Academic_Program": "Dental Surgery",
+           "Label": "Dental_Surgery"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c45a",
+           "Select_An_Academic_Program": "Development Studies",
+           "Label": "Development_Studies"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c45b",
+           "Select_An_Academic_Program": "Dental Technology",
+           "Label": "Dental_Technology"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c45c",
+           "Select_An_Academic_Program": "Dentistry",
+           "Label": "Dentistry"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c45d",
+           "Select_An_Academic_Program": "Design",
+           "Label": "Design"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c45e",
+           "Select_An_Academic_Program": "Diagnostic Radiology",
+           "Label": "Diagnostic_Radiology"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c45f",
+           "Select_An_Academic_Program": "Dialysis Technology",
+           "Label": "Dialysis_Technology"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c460",
+           "Select_An_Academic_Program": "Doctor Physical Therapy",
+           "Label": "Doctor_Physical_Therapy"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c461",
+           "Select_An_Academic_Program": "Eastern Medicine & Surgery",
+           "Label": "Eastern_Medicine_And_Surgery"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c462",
+           "Select_An_Academic_Program": "Eco, Law & International Relations",
+           "Label": "Eco_Law _ International_Relations"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c463",
+           "Select_An_Academic_Program": "Eco, Media & International Relations",
+           "Label": "Eco_Media_And_International Relations"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c464",
+           "Select_An_Academic_Program": "Economics & Finance",
+           "Label": "Economics-And_Finance"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c465",
+           "Select_An_Academic_Program": "Education",
+           "Label": "Education"
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c466",
+           "Select_An_Academic_Program": "Electrical Engineering ",
+           "Label": "Electrical_Engineering "
+       },
+       {
+           "_id": "5ff0ee7ef09f43168435c467",
+           "Select_An_Academic_Program": "Telecommunication Engineering",
+           "Label": "Telecommunication_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c468",
+           "Select_An_Academic_Program": "Electronic Engineering",
+           "Label": "Electronic_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c469",
+           "Select_An_Academic_Program": "Electronic Engineering Technology",
+           "Label": "Electronic_Engineering_Technology"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c46a",
+           "Select_An_Academic_Program": "English Linguistics",
+           "Label": "English_Linguistics"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c46b",
+           "Select_An_Academic_Program": "English Literature",
+           "Label": "English Literature"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c46c",
+           "Select_An_Academic_Program": "Entrepreneurship",
+           "Label": "Entrepreneurship"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c46d",
+           "Select_An_Academic_Program": "Environmental Studies",
+           "Label": "Environmental_Studies"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c46e",
+           "Select_An_Academic_Program": "Fashion Designing",
+           "Label": "Fashion Designing"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c46f",
+           "Select_An_Academic_Program": "Film & Tv",
+           "Label": "Film-And_Tv"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c470",
+           "Select_An_Academic_Program": "Finance",
+           "Label": "Finance"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c471",
+           "Select_An_Academic_Program": "Food & Technology",
+           "Label": "Food_And_Technology"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c472",
+           "Select_An_Academic_Program": "Food Engineering",
+           "Label": "Food_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c473",
+           "Select_An_Academic_Program": "Food Science & Technology",
+           "Label": "Food_Science_And_Technology"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c474",
+           "Select_An_Academic_Program": "Geophysics",
+           "Label": "Geophysics"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c475",
+           "Select_An_Academic_Program": "Health & Safety Environment",
+           "Label": "Health_And_Safety Environment"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c476",
+           "Select_An_Academic_Program": "Gastroenterology",
+           "Label": "Gastroenterology"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c477",
+           "Select_An_Academic_Program": "General History",
+           "Label": "General History"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c478",
+           "Select_An_Academic_Program": "General Surgery",
+           "Label": "General Surgery"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c479",
+           "Select_An_Academic_Program": "Gynecology & Obstetrics",
+           "Label": "Gynecology_And_Obstetrics"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c47a",
+           "Select_An_Academic_Program": "Health Care & Hospital Management",
+           "Label": "Health_Care_And_Hospital_Management"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c47b",
+           "Select_An_Academic_Program": "Health Management",
+           "Label": "Health_Management"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c47c",
+           "Select_An_Academic_Program": "Health Physical Education & Sports Science",
+           "Label": "Health_Physical_Education_And_Sports_Science"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c47d",
+           "Select_An_Academic_Program": "Human Nutrition & Dietetics",
+           "Label": "Human_Nutrition_And_Dietetics"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c47e",
+           "Select_An_Academic_Program": "Human Resource Management",
+           "Label": "Human_Resource_Management"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c47f",
+           "Select_An_Academic_Program": "Industrial Chemistry",
+           "Label": "Industrial_Chemistry"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c480",
+           "Select_An_Academic_Program": "Industrial Design",
+           "Label": "Industrial_Design"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c481",
+           "Select_An_Academic_Program": "Industrial Engineering",
+           "Label": "Industrial_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c482",
+           "Select_An_Academic_Program": "Industrial Management",
+           "Label": "Industrial_Management"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c483",
+           "Select_An_Academic_Program": "Information Technology",
+           "Label": "Information_Technology"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c484",
+           "Select_An_Academic_Program": "International Relations",
+           "Label": "International_Relations"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c485",
+           "Select_An_Academic_Program": "Logistics & Supply Management",
+           "Label": "Logistics_And_Supply Management"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c486",
+           "Select_An_Academic_Program": "Islamic Finance",
+           "Label": "Islamic_Finance"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c487",
+           "Select_An_Academic_Program": "Islamic History",
+           "Label": "Islamic_History"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c488",
+           "Select_An_Academic_Program": "Islamic Studies",
+           "Label": "Islamic_Studies"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c489",
+           "Select_An_Academic_Program": "Joint Business & Psychology",
+           "Label": "Joint_Business_And_Psychology"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c48a",
+           "Select_An_Academic_Program": "Law",
+           "Label": "Law"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c48b",
+           "Select_An_Academic_Program": "Library Science",
+           "Label": "Library_Science"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c48c",
+           "Select_An_Academic_Program": "Management Information Systems",
+           "Label": "Management_Information_Systems"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c48d",
+           "Select_An_Academic_Program": "Management Sciences",
+           "Label": "Management_Sciences"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c48e",
+           "Select_An_Academic_Program": "Mechatronics",
+           "Label": "Mechatronics"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c48f",
+           "Select_An_Academic_Program": "Mass Communication",
+           "Label": "Mass_Communication"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c490",
+           "Select_An_Academic_Program": "Materials Engineering",
+           "Label": "Materials_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c491",
+           "Select_An_Academic_Program": "Mathematical Science",
+           "Label": "Mathematical_Science"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c492",
+           "Select_An_Academic_Program": "Mechanical Engineering",
+           "Label": "Mechanical_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c493",
+           "Select_An_Academic_Program": "Mechanical Engineering Technology",
+           "Label": "Mechanical_Engineering_Technology"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c494",
+           "Select_An_Academic_Program": "Mechatronic Engineering",
+           "Label": "Mechatronic_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c495",
+           "Select_An_Academic_Program": "Media Digital Marketing",
+           "Label": "Media_Digital_Marketing"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c496",
+           "Select_An_Academic_Program": "Media Film & Tv Production",
+           "Label": "Media_Film_And_Tv_Production"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c497",
+           "Select_An_Academic_Program": "Media Studies",
+           "Label": "Media_Studies"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c498",
+           "Select_An_Academic_Program": "Media Studies & Communication Studies",
+           "Label": "Media_Studies_And_Communication_Studies"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c499",
+           "Select_An_Academic_Program": "Medical Laboratory Science",
+           "Label": "Medical_Laboratory_Science"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c49a",
+           "Select_An_Academic_Program": "Medical Technology",
+           "Label": "Medical_Technology"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c49b",
+           "Select_An_Academic_Program": "Medicine",
+           "Label": "Medicine"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c49c",
+           "Select_An_Academic_Program": "Medicine & Surgery",
+           "Label": "Medicine_And_Surgery"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c49d",
+           "Select_An_Academic_Program": "Metallurgical Engineering",
+           "Label": "Metallurgical_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c49e",
+           "Select_An_Academic_Program": "Metallurgy & Materials Engineering",
+           "Label": "Metallurgy & Materials Engineering"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c49f",
+           "Select_An_Academic_Program": "Microbiology",
+           "Label": "Microbiology"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4a0",
+           "Select_An_Academic_Program": "Oral Biology",
+           "Label": "Oral_Biology"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4a1",
+           "Select_An_Academic_Program": "Physiology",
+           "Label": "Physiology"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4a2",
+           "Select_An_Academic_Program": "Petroleum & Gas Engineering",
+           "Label": "Petroleum_And_Gas_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4a3",
+           "Select_An_Academic_Program": "Petroleum Engineering",
+           "Label": "Petroleum_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4a4",
+           "Select_An_Academic_Program": "Pharmacy",
+           "Label": "Pharmacy"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4a5",
+           "Select_An_Academic_Program": "Physics",
+           "Label": "Physics"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4a6",
+           "Select_An_Academic_Program": "Physiotherapy",
+           "Label": "Physiotherapy"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4a7",
+           "Select_An_Academic_Program": "Political Science",
+           "Label": "Political_Science"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4a8",
+           "Select_An_Academic_Program": "Polymer Engineering",
+           "Label": "Polymer_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4a9",
+           "Select_An_Academic_Program": "Power Engineering",
+           "Label": "Power_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4aa",
+           "Select_An_Academic_Program": "Project Management",
+           "Label": "Project_Management"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4ab",
+           "Select_An_Academic_Program": "Psychology",
+           "Label": "Psychology"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4ac",
+           "Select_An_Academic_Program": "Software_Engineering",
+           "Label": "Software Engineering"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4ad",
+           "Select_An_Academic_Program": "Space & Technology",
+           "Label": "Space_And_Technology"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4ae",
+           "Select_An_Academic_Program": "Telecommunication",
+           "Label": "Telecommunication"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4af",
+           "Select_An_Academic_Program": "Telecommunication Engineering",
+           "Label": "Telecommunication_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4b0",
+           "Select_An_Academic_Program": "Textile & Fashion Design",
+           "Label": "Textile_And_Fashion Design"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4b1",
+           "Select_An_Academic_Program": "Textile Engineering",
+           "Label": "Textile_Engineering"
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4b2",
+           "Select_An_Academic_Program": "",
+           "Label": ""
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4b3",
+           "Select_An_Academic_Program": "  ",
+           "Label": ""
+       },
+       {
+           "_id": "5ff0ee7ff09f43168435c4b4",
+           "Select_An_Academic_Program": "  ",
+           "Label": ""
+       }
+   ],
+    "New": [
+         {
+            "_id": "2",
+            "SelectDegree": "Undergraduate"
+        },
+        {
+            "_id": "3",
+            "SelectDegree": "Postgraduate"
+        },
+        {
+            "_id": "4",
+            "SelectDegree": "Graduate"
+        }
+       
+    ]
+}

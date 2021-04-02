@@ -1,0 +1,1187 @@
+{
+    "ACC_And_Emergency":[
+        {
+            "_id": "5febb05e9a099d3158e7c605",
+            "University": "DHA Suffa University",
+            "Image": "https://i.imgur.com/ZOnJdmo.jpg"
+        },
+        {
+            "_id": "5febb05e9a099d3158e7c606",
+            "University": "DAWOOD UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+            "Image": "https://i.imgur.com/CG4kzZU.jpg"
+        },
+        {
+            "_id": "5febb05e9a099d3158e7c607",
+            "University": "Ilma University (Institute of Business & Technology)",
+            "Image": "https://i.imgur.com/uyuNlBW.jpg"
+        },
+        {
+            "_id": "5febb05e9a099d3158e7c608",
+            "University": "Habib University",
+            "Image": "https://i.imgur.com/OJxoQFE.jpg"
+        }
+    ],
+    "Accelerated_occupational_Therapy":[
+        
+        {
+            "_id": "5fece0be011d8709643a2078",
+            "University": "ZIAUDDIN UNIVERSITY",
+            "Details": " Karachi/Main Campus",
+            "Image": "https://i.imgur.com/Uh5yARu.jpg"
+        }
+        
+    ],
+    "Accounting_And_Finance":
+    [
+        {
+            "_id": "5fecf7c0011d8709643a2079",
+            "University": "DHA SUFFA UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/26pDVzRw/DHA-SUFFA.jpg"
+        },
+        {
+            "_id": "5fecf7c0011d8709643a207a",
+            "University": "ILMA UNIVERSITY (INSTITUTE OF BUSINESS & TECHNOLOGY)",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.imgur.com/iz4Rigf.jpg"
+        },
+        {
+            "_id": "5fecf7c0011d8709643a207b",
+            "University": "INSTITUTE OF BUSINESS MANAGEMENT (IOBM)",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.imgur.com/bC7x6qb.jpg"
+        },
+        {
+            "_id": "5fecf7c0011d8709643a207c",
+            "University": "MUHAMMAD ALI JINNAH UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.imgur.com/qT89tHC.jpg"
+        },
+        {
+            "_id": "5fecf7c0011d8709643a207d",
+            "University": "NATIONAL UNIVERSITY OF SCIENCES AND TECHNOLOGY (NUST)",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.imgur.com/Mnbxt57.jpg"
+        },
+        {
+            "_id": "5fecf7c0011d8709643a207e",
+            "University": "PAF-KIET (KARACHI INSTITUTE OF ECONOMICS AND TECHNOLOGY)",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.imgur.com/Bw7yCIR.jpg"
+        },
+        {
+            "_id": "5fecf7c0011d8709643a207f",
+            "University": "PAF-KIET (KARACHI INSTITUTE OF ECONOMICS AND TECHNOLOGY)",
+            "Details": "Karachi/City Campus",
+            "Image": "https://i.imgur.com/Bw7yCIR.jpg"
+        },
+        {
+            "_id": "5fecf7c0011d8709643a2080",
+            "University": "PAF-KIET (KARACHI INSTITUTE OF ECONOMICS AND TECHNOLOGY)",
+            "Details": "Karachi/North Campus",
+            "Image": "https://i.imgur.com/Bw7yCIR.jpg"
+        },
+        {
+            "_id": "5fecf7c0011d8709643a2081",
+            "University": "SINDH MADRESSATUL ISLAM UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.imgur.com/nc12aHo.jpg"
+        },
+        {
+            "_id": "5fecf7c0011d8709643a2082",
+            "University": "PRESTON UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.imgur.com/JcaLZdY.jpg"
+        },
+        {
+            "_id": "5fecf7c0011d8709643a2083",
+            "University": "SHAHEED ZULFIKAR ALI BHUTTO INSTITUTE OF SCIENCE AND TECHNOLOGY (SZABIST)",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.imgur.com/Z14DR7l.jpg"
+        },
+        {
+            "_id": "5fecf7c0011d8709643a2084",
+            "University": "NATIONAL UNIVERSITY OF MODERN LANGUAGES",
+            "Details": "Karachi/Karachi Campus",
+            "Image": "https://i.imgur.com/3Hmei92.jpg"
+        },
+        {
+            "_id": "5fecf7c0011d8709643a2085",
+            "University": "BAHRIA UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.imgur.com/92vjJXt.png"
+        },
+        {
+            "_id": "5fecf7c0011d8709643a2086",
+            "University": "BARRETT HODGSON UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.imgur.com/6T8y9Jh.jpg"
+        },
+        {
+            "_id": "5fecf7c0011d8709643a2087",
+            "University": "INSTITUTE OF BUSINESS ADMINISTRATION (IBA)",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.imgur.com/Es7dkGH.jpg"
+        },
+        {
+            "_id": "5fecf7c0011d8709643a2088",
+            "University": "KHADIM ALI SHAH BUKHARI INSTITUTE OF TECHNOLOGY - KASBIT",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.imgur.com/sqhclav.jpg"
+        }
+    ],
+    "Actuarial_And_Risk_Management":
+    [
+        
+            {
+                "_id": "5ff107a9f09f43168435c4b5",
+                "Univeristy": "UNIVERSITY OF KARACHI",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://i.postimg.cc/rFDrjWp1/KU.jpg"
+            }
+               
+    ],
+    "Aerospace_Engineering":
+    [
+        {
+            "_id": "5ff1125bf09f43168435c4b6",
+            "University": "NUST",
+            "Details": "Karachi/Karachi Campus",
+            "Image": "https://i.postimg.cc/DyRjZx5J/NUST.jpg"
+        }
+    ]
+    ,"Agriculture_And_Agribusiness_Management":
+    [
+        {
+        "_id": "5ff107a9f09f43168435c4b5",
+        "Univeristy": "UNIVERSITY OF KARACHI",
+        "Details": "Karachi/Main Campus",
+        "Image": "https://i.postimg.cc/rFDrjWp1/KU.jpg"
+        }
+    ]
+    ,"Anesthesia":
+    [
+        {
+            "_id": "5ff1178df09f43168435c4b7",
+            "University": "SINDH INSTITUTE OF MEDICAL SCIENCES",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/bvk73MYk/SIMT.jpg"
+        }
+    ],
+    "Applied_Chemistry":[
+        {
+            "_id": "5ff11900f09f43168435c4b8",
+            "Univeristy": "UNIVERSITY OF KARACHI",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/rFDrjWp1/KU.jpg"
+        }
+    ]
+    ,
+    "Applied_Physics":[
+        {
+            "_id": "5ff11d41f09f43168435c4b9",
+            "Univeristy": "UNIVERSITY OF KARACHI",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/rFDrjWp1/KU.jpg"
+        },
+        {
+            "_id": "5ff11d41f09f43168435c4ba",
+            "Univeristy": "FEDERAL URDU UNIVERSITY - FUUAST",
+            "Details": "Karachi/Main Campus ",
+            "Image": "https://i.postimg.cc/DZdMC02h/FUUAST.jpg"
+        },
+        {
+            "_id": "5ff11d41f09f43168435c4bb",
+            "Univeristy": "NED UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/1tPWNSDj/NED.jpg"
+        }
+    ],
+    
+    "Architecture":[
+        {
+            "_id": "5ff1b2a397b5613498c31d86",
+            "Univeristy": "DAWOOD UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/053QBLT8/Dawood-Uni.jpg"
+        },
+        {
+            "_id": "5ff1b2a397b5613498c31d87",
+            "Univeristy": "INDUS VALLEY SCHOOL OF ART AND ARCHITECTURE",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/1z5VQDJP/INDUS-VAlley-School.jpg"
+        },
+        {
+            "_id": "5ff1b2a397b5613498c31d88",
+            "Univeristy": "SIR SYED UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/w389jdzL/Sir-Syed.jpg"
+        },
+        {
+            "_id": "5ff1b2a397b5613498c31d89",
+            "Univeristy": "NATIONAL UNIVERSITY OF SCIENCES AND TECHNOLOGY (NUST)",
+            "Details": "Karachi/Karachi Campus",
+            "Image": "https://i.postimg.cc/htDxQ8fP/NUST.jpg"
+        },
+        {
+            "_id": "5ff1b2a397b5613498c31d8a",
+            "Univeristy": "NED UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/1tPWNSDj/NED.jpg"
+        },
+        {
+            "_id": "5ff1b2a397b5613498c31d8b",
+            "Univeristy": "NAZEER HUSSAIN UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/s2VDWyhJ/Nazeer-hussain.jpg"
+        },
+        {
+            "_id": "5ff1b2a397b5613498c31d8c",
+            "Univeristy": "UNIVERSITY OF KARACHI",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/rFDrjWp1/KU.jpg"
+        }
+    ],
+    "Artificial_Intelligence":[
+        {
+            "_id": "5ff1b7d897b5613498c31d8d",
+            "Univeristy": "SINDH MADRESSATUL ISLAM UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/4dSDNPX0/SINDH-MADARSATUL-ISLAM.jpg",
+            "Test_Details": "Merit|December"
+        }
+    ],
+    "Aviation_Management":[
+        {
+            "_id": "5ff1bbe697b5613498c31d8e",
+            "Univeristy": "PAF-KIET (KARACHI INSTITUTE OF ECONOMICS AND TECHNOLOGY)",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/qqhjGzYV/PAFKIET.jpg",
+            "Test_Details": "Merit|August"
+        },
+        {
+            "_id": "5ff1bbe697b5613498c31d8f",
+            "Univeristy": "PAF-KIET (KARACHI INSTITUTE OF ECONOMICS AND TECHNOLOGY)",
+            "Details": "Karachi/City Campus",
+            "Image": "https://i.postimg.cc/qqhjGzYV/PAFKIET.jpg",
+            "Test_Details": "Merit|October"
+        },
+        {
+            "_id": "5ff1bbe697b5613498c31d90",
+            "Univeristy": "PAF-KIET (KARACHI INSTITUTE OF ECONOMICS AND TECHNOLOGY)",
+            "Details": "karachi/North Campus",
+            "Image": "https://i.postimg.cc/qqhjGzYV/PAFKIET.jpg",
+            "Test_Details": "Merit|October"
+        }
+    ],
+    "Avionics_Engineering":[
+        {
+            "_id": "5ff1bbe697b5613498c31d8e",
+            "Univeristy": "PAF-KIET (KARACHI INSTITUTE OF ECONOMICS AND TECHNOLOGY)",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/qqhjGzYV/PAFKIET.jpg",
+            "Test_Details": "Merit|August"
+        },
+        {
+            "_id": "5ff1bbe697b5613498c31d8f",
+            "Univeristy": "PAF-KIET (KARACHI INSTITUTE OF ECONOMICS AND TECHNOLOGY)",
+            "Details": "Karachi/City Campus",
+            "Image": "https://i.postimg.cc/qqhjGzYV/PAFKIET.jpg",
+            "Test_Details": "Merit|October"
+        },
+        {
+            "_id": "5ff1bbe697b5613498c31d90",
+            "Univeristy": "PAF-KIET (KARACHI INSTITUTE OF ECONOMICS AND TECHNOLOGY)",
+            "Details": "karachi/North Campus",
+            "Image": "https://i.postimg.cc/qqhjGzYV/PAFKIET.jpg",
+            "Test_Details": "Merit|October"
+        }
+    ],
+    "Banking_And_Finance":[
+        {
+            "_id": "5ff1cbca97b5613498c31d98",
+            "Univeristy": "COMMECS INSTITUTE OF BUSINESS & EMERGING SCIENCES",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/XvXTG78F/SINDH-MADARSATUL-ISLAM.jpg",
+            "Test_Details": "Aptitute|January"
+        },
+        {
+            "_id": "5ff1cbca97b5613498c31d99",
+            "Univeristy": "SHAHEED BENAZIR BHUTTO DEWAN UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/2ydJRqkp/Shaheed-Benazir-Bhutto.jpg",
+            "Test_Details": "Aptitute|January"
+        },
+        {
+            "_id": "5ff1cbca97b5613498c31d9a",
+            "Univeristy": "SINDH MADRESSATUL ISLAM UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/15P20KBy/Commecs-Institute-Of-Bussiness.jpg",
+            "Test_Details": "Merit|December"
+        }
+    ],
+    "Bio_Medical":
+    [
+        
+            {
+                "_id": "5ff1cd7797b5613498c31d9b",
+                "Univeristy": "HAMDARD UNIVERSITY (HU)",
+                "Details": "karachi/Main Campus",
+                "Image": "https://i.postimg.cc/wBVkwBPh/Hamdard-Uni.jpg",
+                "Test_Details": "Aptitute Test/January"
+            }
+        
+    ],
+    "BioChemistry":[
+        {
+            "_id": "5ff1d1df97b5613498c31d9c",
+            "Univeristy": "UNIVERSITY OF KARACHI",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/rFDrjWp1/KU.jpg",
+            "Test_Details": "Aptitute Test|January"
+        },
+        {
+            "_id": "5ff1d1df97b5613498c31d9d",
+            "Univeristy": "JINNAH UNIVERSITY FOR WOMEN",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/x1nWHfJY/Jinnah-Uni-For-Women.jpg",
+            "Test_Details": "Aptitute Test|January"
+        },
+        {
+            "_id": "5ff1d1df97b5613498c31d9e",
+            "Univeristy": "SOHAIL UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/13K1Ynhf/Sohail-uni.jpg",
+            "Test_Details": "Aptitute|August"
+        }
+    ],
+    "Bioinformatics":[
+        {
+            "_id": "5ff1d5cd97b5613498c31d9f",
+            "Univeristy": "BAQAI MEDICAL UNIVERSITY",
+            "Details": "karachi/Main Campus",
+            "Image": "https://i.postimg.cc/FRRvgX45/Baqai-Medical-College.jpg",
+            "Test_Details": "Aptitute Test|September"
+        },
+        {
+            "_id": "5ff1d5cd97b5613498c31da0",
+            "Univeristy": "SIR SYED UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/w389jdzL/Sir-Syed.jpg",
+            "Test_Details": "Aptitute Test|January"
+        }
+    ],
+    "Biomedical_Engineering":[
+        {
+            "_id": "5ff1d95797b5613498c31da1",
+            "Univeristy": "SIR SYED UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/w389jdzL/Sir-Syed.jpg",
+            "Test_Details": "Aptitute Test|january"
+        },
+        {
+            "_id": "5ff1d95797b5613498c31da2",
+            "Univeristy": "ZIAUDDIN UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/SKJrw32H/z1.jpg",
+            "Test_Details": ""
+        },
+        {
+            "_id": "5ff1d95797b5613498c31da3",
+            "Univeristy": "BARRETT HODGSON UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/7Zb067H2/BARRET-HODGSON.jpg",
+            "Test_Details": ""
+        }
+    ],
+    "Biosciences":[
+        {
+            "_id": "5ff1de7b97b5613498c31da4",
+            "Univeristy": "SHAHEED ZULFIKAR ALI BHUTTO INSTITUTE OF SCIENCE AND TECHNOLOGY (SZABIST)",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/J4TR1YzR/SZABIST.jpg",
+            "Test_Details": "Aptitute Test|May"
+        },
+        {
+            "_id": "5ff1de7b97b5613498c31da5",
+            "Univeristy": "MUHAMMAD ALI JINNAH UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/BQzRYrvP/MAJU.jpg",
+            "Test_Details": "Aptitute Test|January"
+        },
+        {
+            "_id": "5ff1de7b97b5613498c31da6",
+            "Univeristy": "SOHAIL UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/x8hg5SP0/Sohail-uni.jpg",
+            "Test_Details": "Aptitute Test|August"
+        }
+    ],
+    "Biotechnology":[
+        {
+            "_id": "5ff1de7b97b5613498c31da4",
+            "Univeristy": "SHAHEED ZULFIKAR ALI BHUTTO INSTITUTE OF SCIENCE AND TECHNOLOGY (SZABIST)",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/J4TR1YzR/SZABIST.jpg",
+            "Test_Details": "Aptitute Test|May"
+        },
+        {
+            "_id": "5ff1de7b97b5613498c31da5",
+            "Univeristy": "MUHAMMAD ALI JINNAH UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/BQzRYrvP/MAJU.jpg",
+            "Test_Details": "Aptitute Test|January"
+        },
+        {
+            "_id": "5ff1de7b97b5613498c31da6",
+            "Univeristy": "SOHAIL UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/x8hg5SP0/Sohail-uni.jpg",
+            "Test_Details": "Aptitute Test|August"
+        }
+    ],
+    "Botany":[
+        {
+            "_id": "5ff1e52f97b5613498c31dac",
+            "Univeristy": "UNIVERSITY OF KARACHI",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/rFDrjWp1/KU.jpg",
+            "Test_Details": "Aptitute Test |January"
+        },
+        {
+            "_id": "5ff1e52f97b5613498c31dad",
+            "Univeristy": "JINNAH UNIVERSITY FOR WOMEN",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/PrpK034W/Jinnah-Uni-For-Women.jpg",
+            "Test_Details": "Merit |January"
+        }
+    ],
+    "Business_Administration":[
+        {
+            "_id": "5ff22cfb97b5613498c31dae",
+            "University": "Dawood University of Engineering & Technology",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/053QBLT8/Dawood-Uni.jpg",
+            "Test_Details": "Merit|January"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31daf",
+            "University": "Dow University of Health Sciences",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/NfSCMqMC/Dow.jpg",
+            "Test_Details": "Merit |August"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31db0",
+            "University": "DHA SUFFA UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/VNw8Tr02/DHA-SUFFA.jpg",
+            "Test_Details": "Aptitute Test|August"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31db1",
+            "University": "GREENWICH UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/Yb1GdV3dUpyDR4XF6klZU57caMINMzNIPRLuzJwL.jpeg",
+            "Test_Details": "Aptitute Test|August"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31db2",
+            "University": "ILMA UNIVERSITY (INSTITUTE OF BUSINESS & TECHNOLOGY)",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/ncMcYDqk/ILMA-UNIVERSITY.jpg",
+            "Test_Details": "Apitute Test|January"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31db3",
+            "University": "ILMA UNIVERSITY (INSTITUTE OF BUSINESS & TECHNOLOGY)",
+            "Details": "Karachi/Gulshan Campus",
+            "Image": "https://i.postimg.cc/ncMcYDqk/ILMA-UNIVERSITY.jpg",
+            "Test_Details": "Apitute Test|January"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31db4",
+            "University": "INSTITUTE OF BUSINESS MANAGEMENT (IOBM)",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/J75BdZDC/IBM.jpg",
+            "Test_Details": "Aptitute Test|January"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31db5",
+            "University": "JINNAH UNIVERSITY FOR WOMEN",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/PrpK034W/Jinnah-Uni-For-Women.jpg",
+            "Test_Details": "Merit |January"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31db6",
+            "University": "KARACHI SCHOOL OF BUSINESS AND LEADERSHIP (KSBL)",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/1Jtnw0Yx3cOkWybNJxQMMWEu1jvatAKT5S5CZK7l.jpeg",
+            "Test_Details": "Aptitute Test|August"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31db7",
+            "University": "KHADIM ALI SHAH BUKHARI INSTITUTE OF TECHNOLOGY - KASBIT",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/1Jtnw0Yx3cOkWybNJxQMMWEu1jvatAKT5S5CZK7l.jpeg",
+            "Test_Details": "Aptitute Test|January"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31db8",
+            "University": "MUHAMMAD ALI JINNAH UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/BQzRYrvP/MAJU.jpg",
+            "Test_Details": "Aptitute Test|January"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31db9",
+            "University": "UNIVERSITY OF KARACHI",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/rFDrjWp1/KU.jpg",
+            "Test_Details": "Aptitute Test |January"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dba",
+            "University": "BENAZIR BHUTTO SHAHEED UNIVERSITY LYARI",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/tXiPSQI5u3rxc1sje3LWWqqtaUG9tzpsyE3iFFcL.jpeg",
+            "Test_Details": "Aptitute Test|January"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dbb",
+            "University": "DADABHOY INSTITUTE OF HIGHER EDUCATION",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/eDvXrQzfplTeJVijaLpwWdKTNS6xKDmd6tarQTHS.jpeg",
+            "Test_Details": "Merit |August"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dbc",
+            "University": "IQRA UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/8IHjncrnNI6HFukG126vj35m7m7e52VNBn2aZ2jG.jpeg",
+            "Test_Details": "Aptitute Test|April"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dbd",
+            "University": "IQRA UNIVERSITY",
+            "Details": "Karachi/North Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/8IHjncrnNI6HFukG126vj35m7m7e52VNBn2aZ2jG.jpeg",
+            "Test_Details": "Merit|April"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dbe",
+            "University": "NAZEER HUSSAIN UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/2cWqSeO6iTusnywkU71d8kPrFTKlgzg1H9SVA2Ub.jpeg",
+            "Test_Details": "Aptitute Test|April"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dbf",
+            "University": "PAF-KIET (KARACHI INSTITUTE OF ECONOMICS AND TECHNOLOGY)",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/OGE0yPx24ZyquCFFmPSGW0kbavViODUPeu48OzSs.jpeg",
+            "Test_Details": "Merit|August"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dc0",
+            "University": "PAF-KIET (KARACHI INSTITUTE OF ECONOMICS AND TECHNOLOGY)",
+            "Details": "Karachi/North Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/OGE0yPx24ZyquCFFmPSGW0kbavViODUPeu48OzSs.jpeg",
+            "Test_Details": "Merit|October"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dc1",
+            "University": "PAF-KIET (KARACHI INSTITUTE OF ECONOMICS AND TECHNOLOGY)",
+            "Details": "Karachi/City Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/OGE0yPx24ZyquCFFmPSGW0kbavViODUPeu48OzSs.jpeg",
+            "Test_Details": "Merit|October"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dc2",
+            "University": "SINDH MADRESSATUL ISLAM UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/By1dP8qIqeIp0bpo07PtWvOwVPTHrgU7D3b5rK4g.jpeg",
+            "Test_Details": "Merit|December"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dc3",
+            "University": "NEWPORTS INSTITUTE OF COMMUNICATION AND ECONOMICS",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/9utAzfXkmXQniN4L9mtSbGIuu1X5QxzGXIMlQOkL.jpeg",
+            "Test_Details": "AptituteTest|January"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dc4",
+            "University": "BAHRIA UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/efZE6NAhHZJxpy78bjZIsokQtaEXvOKz304hOMOG.png",
+            "Test_Details": "AptituteTest|January"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dc5",
+            "University": "BARRETT HODGSON UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/1jUxpmt4OkTzfevYl79VBtDI7PdgtWIqwD4ksAhw.jpeg",
+            "Test_Details": "AptituteTest|January"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dc6",
+            "University": "FEDERAL URDU UNIVERSITY - FUUAST",
+            "Details": "Karachi/karachi Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/lR4gKT9z5m45BnNXsL1blznrfLeP9CE6zBPVlsaa.jpeg",
+            "Test_Details": "AptituteTest|January"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dc7",
+            "University": "HAMDARD UNIVERSITY (HU)",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/tq9WKq3Pf1QEaMFC5TMUtR6EtDNLCIvuc7jo4Mw2.jpeg",
+            "Test_Details": "AptituteTest|November"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dc8",
+            "University": "INSTITUTE OF BUSINESS ADMINISTRATION (IBA)",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/8FYG7VQufMBnCMStqEnswyE1Faj7EqP9LHi8ctne.jpeg",
+            "Test_Details": "AptituteTest|January"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dc9",
+            "University": "JINNAH SINDH MEDICAL UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/8j3rHbQUCx4F8Nj4nwfIm62qlc2YdE4cG4PRpXtV.jpeg",
+            "Test_Details": "AptituteTest|January"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dca",
+            "University": "PRESTON INSTITUTE OF MANAGEMENT SCIENCE AND TECHNOLOGY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/6a5U7emiRGHajqOWrsqTqMcgNaLWTxLdnWsTV4qU.jpeg",
+            "Test_Details": "AptituteTest|January"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dcb",
+            "University": "PRESTON UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/jMNQiq7HzEFuIbKdkxwM3UQ7dR86BOXd7RnsJFAT.jpeg",
+            "Test_Details": "AptituteTest|January"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dcc",
+            "University": "SHAHEED ZULFIKAR ALI BHUTTO INSTITUTE OF SCIENCE AND TECHNOLOGY (SZABIST)",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/dzP9QqWcH2JqzY7KkD5j4yXZCMSDHY49EQjSzzQG.jpeg",
+            "Test_Details": "AptituteTest|January"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dcd",
+            "University": "SINDH INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/drpcOQqMj6T9eXYheXV9pnhhJ4z2KRsAk1dSPGgd.jpeg",
+            "Test_Details": "AptituteTest|January"
+        },
+        {
+            "_id": "5ff22cfb97b5613498c31dce",
+            "University": "SHAHEED BENAZIR BHUTTO DEWAN UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/cEY7EBUOypv2maN053uY77C9wtqayJw6Ba58CYKw.jpeg",
+            "Test_Details": "AptituteTest|January"
+        }
+    ],
+    "Business_Information_Technology":[
+        {
+            "_id": "5ff23905e798d32978dee157",
+            "University": "IQRA UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/8IHjncrnNI6HFukG126vj35m7m7e52VNBn2aZ2jG.jpeg",
+            "Test_Details": "Aptitute Test | April"
+        }
+    ],
+    "Cardiology":[
+        {
+            "_id": "5ff23905e798d32978dee157",
+            "University": "IQRA UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/8IHjncrnNI6HFukG126vj35m7m7e52VNBn2aZ2jG.jpeg",
+            "Test_Details": "Aptitute Test | April"
+        }
+    ],
+    "Chemical_Engineering":
+    [
+        {
+            "_id": "5ff2433fe798d32978dee159",
+            "Univeristy": "NATIONAL UNIVERSITY OF SCIENCES AND TECHNOLOGY (NUST)",
+            "Details": "karachi / Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/4WRmUzYH6qHZse471msLJO8EIF9aNkOMtMgbqICB.jpeg",
+            "Test_Details": "Aptitute Test | January"
+        },
+        {
+            "_id": "5ff2433fe798d32978dee15a",
+            "Univeristy": "NED UNIVERSITY",
+            "Details": "karachi / Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/zQsG1jjIRFDE3z3a7ob7FbU1X06OVfAsTbsNFOpS.jpeg",
+            "Test_Details": "Aptitute Test | January"
+        },
+        {
+            "_id": "5ff2433fe798d32978dee15b",
+            "Univeristy": "UNIVERSITY OF KARACHI",
+            "Details": "karachi / Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/aWe0KcgLjvrisp5wUuSjdalB0Xbawzr1MhJU1YgD.jpeg",
+            "Test_Details": "Merit | January"
+        }
+    ],
+    "Chemical_Technology":
+    [
+        {
+            "_id": "5ff245a3e798d32978dee15c",
+            "Univeristy": "UNIVERSITY OF KARACHI",
+            "Details": "karachi / Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/aWe0KcgLjvrisp5wUuSjdalB0Xbawzr1MhJU1YgD.jpeg",
+            "Test_Details": "Merit | January"
+        }
+    ],
+    "Chemistry":
+    [
+        {
+            "_id": "5ff24adce798d32978dee15d",
+            "University": "NATIONAL UNIVERSITY OF SCIENCES AND TECHNOLOGY (NUST)",
+            "Details": "karachi / Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/4WRmUzYH6qHZse471msLJO8EIF9aNkOMtMgbqICB.jpeg",
+            "Test_Details": "Aptitute Test | January"
+        },
+        {
+            "_id": "5ff24adce798d32978dee15e",
+            "University": "UNIVERSITY OF KARACHI",
+            "Details": "karachi / Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/aWe0KcgLjvrisp5wUuSjdalB0Xbawzr1MhJU1YgD.jpeg",
+            "Test_Details": "Merit | January"
+        },
+        {
+            "_id": "5ff24adce798d32978dee15f",
+            "University": "NED UNIVERSITY",
+            "Details": "karachi / Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/zQsG1jjIRFDE3z3a7ob7FbU1X06OVfAsTbsNFOpS.jpeg",
+            "Test_Details": "Aptitute Test | January"
+        },
+        {
+            "_id": "5ff24adce798d32978dee160",
+            "University": "JINNAH UNIVERSITY FOR WOMEN",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/PrpK034W/Jinnah-Uni-For-Women.jpg",
+            "Test_Details": "Merit |January"
+        },
+        {
+            "_id": "5ff24adce798d32978dee161",
+            "University": "ZIAUDDIN UNIVERSITY",
+            "Details": "Karachi /Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/9hMX4JDGUQjKQMAYggeaRnp2ZBpkzGX8IPgFvh9Z.jpeg",
+            "Test_Details": "Aptitute Test | November"
+        }
+    ],
+    "Civil_Engineering":[
+        {
+            "_id": "5ff253efe798d32978dee162",
+            "University": "NATIONAL UNIVERSITY OF SCIENCES AND TECHNOLOGY (NUST)",
+            "Details": "karachi / Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/4WRmUzYH6qHZse471msLJO8EIF9aNkOMtMgbqICB.jpeg",
+            "Test_Details": "Aptitute Test | January"
+        },
+        {
+            "_id": "5ff253efe798d32978dee163",
+            "University": "NED UNIVERSITY",
+            "Details": "karachi / Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/zQsG1jjIRFDE3z3a7ob7FbU1X06OVfAsTbsNFOpS.jpeg",
+            "Test_Details": "Aptitute Test | January"
+        },
+        {
+            "_id": "5ff253efe798d32978dee164",
+            "University": "DHA SUFFA UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/VNw8Tr02/DHA-SUFFA.jpg",
+            "Test_Details": "Aptitute Test | August"
+        },
+        {
+            "_id": "5ff253efe798d32978dee165",
+            "University": "ZIAUDDIN UNIVERSITY",
+            "Details": "Karachi /Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/9hMX4JDGUQjKQMAYggeaRnp2ZBpkzGX8IPgFvh9Z.jpeg",
+            "Test_Details": "Aptitute Test | November"
+        },
+        {
+            "_id": "5ff253efe798d32978dee166",
+            "University": "PRESTON INSTITUTE OF MANAGEMENT SCIENCE AND TECHNOLOGY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/6a5U7emiRGHajqOWrsqTqMcgNaLWTxLdnWsTV4qU.jpeg",
+            "Test_Details": "Aptitute Test | January"
+        },
+        {
+            "_id": "5ff253efe798d32978dee167",
+            "University": "PRESTON UNIVERSITY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://cdn-education.tribune.com.pk/institutes-logo/jMNQiq7HzEFuIbKdkxwM3UQ7dR86BOXd7RnsJFAT.jpeg",
+            "Test_Details": "Aptitute Test | January"
+        },
+        {
+            "_id": "5ff253efe798d32978dee168",
+            "University": "SIR SYED UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+            "Details": "Karachi/Main Campus",
+            "Image": "https://i.postimg.cc/w389jdzL/Sir-Syed.jpg",
+            "Test_Details": "Aptitute Test | January"
+        }
+    ],
+    "Admission":[
+        {
+            "_id": "5ff35e1e68d34430e49ff2cd",
+            "University": "GREENWICH UNIVERSITY",
+            "Details": "For Undergraduate Programs..",
+            "Image": "https://cdn-education.tribune.com.pk/campus/thumb/s1pYQyHLUlLmSGEviMxB5olgZEJufpffc69n61Uc.jpeg",
+            "Test_Date": "JANUARY 30, 2021"
+        },
+        {
+            "_id": "5ff35e1e68d34430e49ff2ce",
+            "University": "MUHAMMAD ALI JINNAH UNIVERSITY",
+            "Details": "For Undergraduate, Graduate & Postgraduate Programs...",
+            "Image": "https://www.eduvision.edu.pk/admissions/muhammad-ali-jinnah-university-karachi-admission-27-12-20.jpg",
+            "Test_Date": "JANUARY 15, 2021"
+        },
+        {
+            "_id": "5ff35e1e68d34430e49ff2cf",
+            "University": "DHA SUFFA UNIVERSITY",
+            "Details": "For Undergraduate, Graduate & Postgraduate Programs..",
+            "Image": "https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_886,h_886/https://www.dsu.edu.pk/wp-content/uploads/2020/12/Insta.jpeg",
+            "Test_Date": "JANUARY 23, 2021"
+        },
+        {
+            "_id": "5ff35e1e68d34430e49ff2d0",
+            "University": "BAHRIA UNIVERSITY MEDICAL AND DENTAL COLLEGE (BUMDC)",
+            "Details": "Only For Undergraduate Programs...",
+            "Image": "https://cdn-education.tribune.com.pk/campus/thumb/NQznBrvvYinvPfuVeZFTEtG8VzYwydFh0V1Dop50.jpeg",
+            "Test_Date": "JANUARY 7, 2021"
+        },
+        {
+            "_id": "5ff35e1e68d34430e49ff2d1",
+            "University": "UNIVERSITY OF KARACHI",
+            "Details": "For Undergraduate And Graduate... ",
+            "Image": "data:image/jpeg;base64,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",
+            "Test_Date": "JANUARY 14,2021"
+        },
+        {
+            "_id": "5ff35e1e68d34430e49ff2d2",
+            "University": "UNIVERSITY OF KARACHI",
+            "Details": "Only For BBA Program..",
+            "Image": "data:image/png;base64,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",
+            "Test_Date": "DECEMBER 30,2021"
+        }
+    ],
+    "Scholarships":[
+        {
+            "_id": "5ff387f068d34430e49ff2d3",
+            "City": "karachi",
+            "Final_Deadline": "March 31,2021  12:03:00 AM",
+            "Citizenship": "Pakistani",
+            "Degree_Level": "Undergraduate",
+            "Scholarship_type": "Academic Scholarships",
+            "Intake_Year": "2021"
+        }
+    ],
+    "Computer_Science":[
+        
+            {
+                "_id": "5ff3e411b0d7c61d28d09419",
+                "University": "Dawood University of Engineering & Technology",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://i.postimg.cc/053QBLT8/Dawood-Uni.jpg",
+                "Test_Details": "Merit|January"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d0941a",
+                "University": "DHA SUFFA UNIVERSITY",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://i.postimg.cc/VNw8Tr02/DHA-SUFFA.jpg",
+                "Test_Details": "Aptitute Test|August"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d0941b",
+                "University": "ILMA UNIVERSITY (INSTITUTE OF BUSINESS & TECHNOLOGY)",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://i.postimg.cc/ncMcYDqk/ILMA-UNIVERSITY.jpg",
+                "Test_Details": "Apitute Test|January"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d0941c",
+                "University": "ILMA UNIVERSITY (INSTITUTE OF BUSINESS & TECHNOLOGY)",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://i.postimg.cc/ncMcYDqk/ILMA-UNIVERSITY.jpg",
+                "Test_Details": "Apitute Test|January"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d0941d",
+                "University": "INSTITUTE OF BUSINESS MANAGEMENT (IOBM)",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://i.postimg.cc/J75BdZDC/IBM.jpg",
+                "Test_Details": "Aptitute Test|January"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d0941e",
+                "University": "KHADIM ALI SHAH BUKHARI INSTITUTE OF TECHNOLOGY - KASBIT",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/1Jtnw0Yx3cOkWybNJxQMMWEu1jvatAKT5S5CZK7l.jpeg",
+                "Test_Details": "Aptitute Test|January"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d0941f",
+                "University": "JINNAH UNIVERSITY FOR WOMEN",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://i.postimg.cc/PrpK034W/Jinnah-Uni-For-Women.jpg",
+                "Test_Details": "Merit |January"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d09420",
+                "University": "SINDH MADRESSATUL ISLAM UNIVERSITY",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/By1dP8qIqeIp0bpo07PtWvOwVPTHrgU7D3b5rK4g.jpeg",
+                "Test_Details": "Merit|December"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d09421",
+                "University": "SHAHEED BENAZIR BHUTTO DEWAN UNIVERSITY",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/cEY7EBUOypv2maN053uY77C9wtqayJw6Ba58CYKw.jpeg",
+                "Test_Details": "AptituteTest|January"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d09422",
+                "University": "PAF-KIET (KARACHI INSTITUTE OF ECONOMICS AND TECHNOLOGY)",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/OGE0yPx24ZyquCFFmPSGW0kbavViODUPeu48OzSs.jpeg",
+                "Test_Details": "Merit|August"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d09423",
+                "University": "SINDH MADRESSATUL ISLAM UNIVERSITY",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/By1dP8qIqeIp0bpo07PtWvOwVPTHrgU7D3b5rK4g.jpeg",
+                "Test_Details": "Merit|December"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d09424",
+                "University": "NEWPORTS INSTITUTE OF COMMUNICATION AND ECONOMICS",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/9utAzfXkmXQniN4L9mtSbGIuu1X5QxzGXIMlQOkL.jpeg",
+                "Test_Details": "AptituteTest|January"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d09425",
+                "University": "UNIVERSITY OF KARACHI",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://i.postimg.cc/rFDrjWp1/KU.jpg",
+                "Test_Details": "Aptitute Test |January"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d09426",
+                "University": "MUHAMMAD ALI JINNAH UNIVERSITY",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://i.postimg.cc/BQzRYrvP/MAJU.jpg",
+                "Test_Details": "Aptitute Test|January"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d09427",
+                "University": "NAZEER HUSSAIN UNIVERSITY",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/2cWqSeO6iTusnywkU71d8kPrFTKlgzg1H9SVA2Ub.jpeg",
+                "Test_Details": "Aptitute Test|April"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d09428",
+                "University": "IQRA UNIVERSITY",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/8IHjncrnNI6HFukG126vj35m7m7e52VNBn2aZ2jG.jpeg",
+                "Test_Details": "Aptitute Test|April"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d09429",
+                "University": "IQRA UNIVERSITY",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/8IHjncrnNI6HFukG126vj35m7m7e52VNBn2aZ2jG.jpeg",
+                "Test_Details": "Aptitute Test|April"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d0942a",
+                "University": "SHAHEED ZULFIKAR ALI BHUTTO INSTITUTE OF SCIENCE AND TECHNOLOGY (SZABIST)",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/dzP9QqWcH2JqzY7KkD5j4yXZCMSDHY49EQjSzzQG.jpeg",
+                "Test_Details": "AptituteTest|January"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d0942b",
+                "University": "DADABHOY INSTITUTE OF HIGHER EDUCATION",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/eDvXrQzfplTeJVijaLpwWdKTNS6xKDmd6tarQTHS.jpeg",
+                "Test_Details": "Merit |August"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d0942c",
+                "University": "PRESTON INSTITUTE OF MANAGEMENT SCIENCE AND TECHNOLOGY",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/6a5U7emiRGHajqOWrsqTqMcgNaLWTxLdnWsTV4qU.jpeg",
+                "Test_Details": "AptituteTest|January"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d0942d",
+                "University": "INSTITUTE OF BUSINESS ADMINISTRATION (IBA)",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/8FYG7VQufMBnCMStqEnswyE1Faj7EqP9LHi8ctne.jpeg",
+                "Test_Details": "AptituteTest|January"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d0942e",
+                "University": "INSTITUTE OF BUSINESS ADMINISTRATION (IBA)",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/8FYG7VQufMBnCMStqEnswyE1Faj7EqP9LHi8ctne.jpeg",
+                "Test_Details": "AptituteTest|January"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d0942f",
+                "University": "HAMDARD UNIVERSITY (HU)",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/tq9WKq3Pf1QEaMFC5TMUtR6EtDNLCIvuc7jo4Mw2.jpeg",
+                "Test_Details": "AptituteTest|November"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d09430",
+                "University": "PRESTON UNIVERSITY",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/jMNQiq7HzEFuIbKdkxwM3UQ7dR86BOXd7RnsJFAT.jpeg",
+                "Test_Details": "AptituteTest|January"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d09431",
+                "University": "SINDH INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/drpcOQqMj6T9eXYheXV9pnhhJ4z2KRsAk1dSPGgd.jpeg",
+                "Test_Details": "AptituteTest|January"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d09432",
+                "University": "SHAHEED BENAZIR BHUTTO DEWAN UNIVERSITY",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/cEY7EBUOypv2maN053uY77C9wtqayJw6Ba58CYKw.jpeg",
+                "Test_Details": "AptituteTest|January"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d09433",
+                "University": "PAF-KIET (KARACHI INSTITUTE OF ECONOMICS AND TECHNOLOGY)",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/OGE0yPx24ZyquCFFmPSGW0kbavViODUPeu48OzSs.jpeg",
+                "Test_Details": "Merit|August"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d09434",
+                "University": "PAF-KIET (KARACHI INSTITUTE OF ECONOMICS AND TECHNOLOGY)",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/OGE0yPx24ZyquCFFmPSGW0kbavViODUPeu48OzSs.jpeg",
+                "Test_Details": "Merit|August"
+            },
+            {
+                "_id": "5ff3e411b0d7c61d28d09435",
+                "University": "BAHRIA UNIVERSITY",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/efZE6NAhHZJxpy78bjZIsokQtaEXvOKz304hOMOG.png",
+                "Test_Details": "AptituteTest|January"
+            }
+        ],
+        "Software_Engineering":[
+            {
+                "_id": "5ff3e7dcb0d7c61d28d09436",
+                "University": "BAHRIA UNIVERSITY",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/efZE6NAhHZJxpy78bjZIsokQtaEXvOKz304hOMOG.png",
+                "Test_Details": "AptituteTest|January"
+            },
+            {
+                "_id": "5ff3e7dcb0d7c61d28d09437",
+                "University": "DHA SUFFA UNIVERSITY",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://i.postimg.cc/VNw8Tr02/DHA-SUFFA.jpg",
+                "Test_Details": "Aptitute Test|August"
+            },
+            {
+                "_id": "5ff3e7dcb0d7c61d28d09438",
+                "University": "ILMA UNIVERSITY (INSTITUTE OF BUSINESS & TECHNOLOGY)",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://i.postimg.cc/ncMcYDqk/ILMA-UNIVERSITY.jpg",
+                "Test_Details": "Apitute Test|January"
+            },
+            {
+                "_id": "5ff3e7dcb0d7c61d28d09439",
+                "University": "ILMA UNIVERSITY (INSTITUTE OF BUSINESS & TECHNOLOGY)",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://i.postimg.cc/ncMcYDqk/ILMA-UNIVERSITY.jpg",
+                "Test_Details": "Apitute Test|January"
+            },
+            {
+                "_id": "5ff3e7dcb0d7c61d28d0943a",
+                "University": "INSTITUTE OF BUSINESS MANAGEMENT (IOBM)",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://i.postimg.cc/J75BdZDC/IBM.jpg",
+                "Test_Details": "Aptitute Test|January"
+            },
+            {
+                "_id": "5ff3e7dcb0d7c61d28d0943b",
+                "University": "JINNAH UNIVERSITY FOR WOMEN",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://i.postimg.cc/PrpK034W/Jinnah-Uni-For-Women.jpg",
+                "Test_Details": "Merit |January"
+            },
+            {
+                "_id": "5ff3e7dcb0d7c61d28d0943c",
+                "University": "INSTITUTE OF BUSINESS MANAGEMENT (IOBM)",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://i.postimg.cc/J75BdZDC/IBM.jpg",
+                "Test_Details": "Aptitute Test|January"
+            },
+            {
+                "_id": "5ff3e7dcb0d7c61d28d0943d",
+                "University": "UNIVERSITY OF KARACHI",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://i.postimg.cc/rFDrjWp1/KU.jpg",
+                "Test_Details": "Aptitute Test |January"
+            },
+            {
+                "_id": "5ff3e7dcb0d7c61d28d0943e",
+                "University": "HAMDARD UNIVERSITY (HU)",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/tq9WKq3Pf1QEaMFC5TMUtR6EtDNLCIvuc7jo4Mw2.jpeg",
+                "Test_Details": "AptituteTest|November"
+            },
+            {
+                "_id": "5ff3e7dcb0d7c61d28d0943f",
+                "University": "IQRA UNIVERSITY",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/8IHjncrnNI6HFukG126vj35m7m7e52VNBn2aZ2jG.jpeg",
+                "Test_Details": "Aptitute Test|April"
+            },
+            {
+                "_id": "5ff3e7dcb0d7c61d28d09440",
+                "University": "USMAN INSTITUTE OF TECHNOLOGY",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/gZqtf1GHncgSkmFuqtEVoHshX3WBlot6RQTUoeBS.jpeg",
+                "Test_Details": "Aptitute Test |January"
+            },
+            {
+                "_id": "5ff3e7dcb0d7c61d28d09441",
+                "University": "THE METROPOLITAN UNIVERSITY",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/5RIs7V2vovjYGEL9MNpvglE29etQqgHdccQTRxRp.jpeg",
+                "Test_Details": "Aptitute Test |October"
+            },
+            {
+                "_id": "5ff3e7dcb0d7c61d28d09442",
+                "University": "NATIONAL UNIVERSITY OF COMPUTER AND EMERGING SCIENCES (FAST)",
+                "Details": "Karachi/Main Campus",
+                "Image": "https://cdn-education.tribune.com.pk/institutes-logo/5RIs7V2vovjYGEL9MNpvglE29etQqgHdccQTRxRp.jpeg",
+                "Test_Details": "Merit | June"
+            }
+        ]    
+}
